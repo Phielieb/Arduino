@@ -1,1 +1,1 @@
-print("hey stupid world!")
+print("hey world!")
