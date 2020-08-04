@@ -1,1 +1,0 @@
-print("hey stupid world!")
