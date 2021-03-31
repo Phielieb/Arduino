@@ -2,7 +2,7 @@ import pyfirmata
 import time
 from pyfirmata import Arduino
 
-board = Arduino("COM3")
+board = Arduino("/dev/ttyACM0")
 
 blink = 13
 switch = 10 
